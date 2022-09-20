@@ -6,6 +6,5 @@
 
 - 🔭 Working as Python Developer / ERP Consultant
 - 🌱 Currently learning AWS,Docker, CI/CD pipelines
-- 📫 Reach out to me: muhsinalungal@gmail.com
-                      linkedin.com/in/muhsinalungal 
+- 📫 Reach out to me: muhsinalungal@gmail.com, linkedin.com/in/muhsinalungal
 - 😄 Languages known: English (proficient), Malayalam (mother tongue), Hindi, Arabic
