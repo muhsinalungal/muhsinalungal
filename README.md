@@ -4,7 +4,7 @@
 **muhsinalungal/muhsinalungal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as Python Developer / ERP Consultant
-- 🌱 I’m currently learning AWS,Docker
-- 📫 Reach me on: muhsinalungal@gmail.com
+- 🔭 Working as Python Developer / ERP Consultant
+- 🌱 Currently learning AWS,Docker, CI/CD pipelines
+- 📫 Reach out to me: muhsinalungal@gmail.com
 - 😄 Languages known: English (proficient), Malayalam (mother tongue), Hindi, Arabic
